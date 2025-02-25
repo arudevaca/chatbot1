@@ -1,7 +1,7 @@
 
 horario_libre = "Me encuentro disponible los martes, miercoles y jueves de 16 a 19hs"
 
-saludo = input("Holi, qué tal? ")
+saludo = input("Hola, qué tal? ")
 nombre = input("Cuál es tu nombre? ")
 print(horario_libre)
 dia = str(input("Qué día te queda bien? (sin acentos) ")).lower()
